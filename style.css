@@ -442,3 +442,11 @@ li {
 .logo {
     width: 50px;
 }
+
+
+@media (max-width: 800px) {
+    .container {
+        width: 100%;
+        padding: 0
+    }
+}
