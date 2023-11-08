@@ -443,8 +443,6 @@ li {
     width: 50px;
 }
 
-
-
 @media (max-width: 1000px) {
     .container {
         width: 100%;
@@ -487,5 +485,14 @@ li {
         margin-bottom: 20px;
     }
 
+    .book1 .watch {
+    height: 14px;
+    width: 32px;
+    font-size: 6px;
+
+    }
+    .content1 {
+    font-size: 6px;
+    }
 
 }
